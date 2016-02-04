@@ -6,7 +6,7 @@
 	<script type="text/javascript" src="js/swipe.js"></script>
 ```
 
-Javascript
+- Javascript
 ```javascript
 	$('#MyDiv').on('swipeup',function (){
 		alert("SwipeUp");
