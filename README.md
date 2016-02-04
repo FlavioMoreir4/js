@@ -1,1 +1,1 @@
-<a href="fb.com/flaviomoreiratec">Facebook</a>
+<a href="http://fb.com/flaviomoreiratec">Facebook</a>
