@@ -1,5 +1,5 @@
 
-### Swipe (Up / Down)
+### Swipe
 ```bash
 	$('#MyDiv').on('swipeup',function (){
 		alert("SwipeUp");
