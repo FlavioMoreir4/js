@@ -40,7 +40,7 @@ Foi testado nas seguintes configurações do navegador:
  - Vários dispositivos iOS
  - Vários   dispositivos Android
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MDE2NDU3LDk1MTc0NjMzMl19
+eyJoaXN0b3J5IjpbMTk3MDgxODA1OCw5ODcwMTY0NTcsOTUxNz
+Q2MzMyXX0=
 -->
