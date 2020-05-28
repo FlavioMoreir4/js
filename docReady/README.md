@@ -33,13 +33,14 @@ assim que o encadeamento atual de execução terminar usando `setTimeout(fn, 1)`
 
 Foi testado nas seguintes configurações do navegador:
 
-IE6 e superior
-Firefox 3.6 e superior
-Chrome 14 e superior
-Safari 5.1 ou superior
-Opera 11.6 e superior
-Vários dispositivos iOS
-Vários dispositivos Android
+ - IE6 e superior Firefox 3.6 e superior
+ - Chrome 14 e superior
+ - Safari 5.1 ou superior
+ - Opera 11.6 e superior
+ - Vários dispositivos iOS
+ - Vários   dispositivos Android
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxNzQ2MzMyLDk1MTc0NjMzMl19
+eyJoaXN0b3J5IjpbOTg3MDE2NDU3LDk1MTc0NjMzMl19
 -->
