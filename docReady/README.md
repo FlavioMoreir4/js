@@ -10,7 +10,7 @@ Estas são várias formas de uso:
 ```javascript
 // passando uma referência de função
 docReady(fn);
-enter code here
+
 // usando uma função anônima
 docReady(function () {
     // código aqui
@@ -41,6 +41,6 @@ Foi testado nas seguintes configurações do navegador:
  - Vários   dispositivos Android
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDgxODA1OCw5ODcwMTY0NTcsOTUxNz
-Q2MzMyXX0=
+eyJoaXN0b3J5IjpbMTEzNzc4NDAzOSwxOTcwODE4MDU4LDk4Nz
+AxNjQ1Nyw5NTE3NDYzMzJdfQ==
 -->
