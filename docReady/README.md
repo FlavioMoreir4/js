@@ -24,7 +24,7 @@ docReady(fn, contexto);
 docReady(function (ctx) {
     // código aqui que pode usar o argumento de contexto que foi passado para docReady
 } contexto);
-
+```
 `docReady(fn)` pode ser chamado quantas vezes desejar e cada função de retorno de chamada será
 chamado em ordem quando o DOM terminar de ser analisado e estiver pronto para manipulação.
 
@@ -41,5 +41,5 @@ Opera 11.6 e superior
 Vários dispositivos iOS
 Vários dispositivos Android
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ0OTI1ODhdfQ==
+eyJoaXN0b3J5IjpbOTUxNzQ2MzMyXX0=
 -->
