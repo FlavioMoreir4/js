@@ -1,3 +1,4 @@
+[![Nolid
 # docReady
 
 docReady é uma função JavaScript simples e simples que fornece um método de
@@ -41,5 +42,5 @@ Opera 11.6 e superior
 Vários dispositivos iOS
 Vários dispositivos Android
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxNzQ2MzMyXX0=
+eyJoaXN0b3J5IjpbLTE4MDQwODEzNSw5NTE3NDYzMzJdfQ==
 -->
