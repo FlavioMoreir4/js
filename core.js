@@ -31,6 +31,21 @@ let
         }
         return params;
     },
+    
+    getSearchCookies = function () {
+        var prmstr = document.cookie;
+        return prmstr != null && prmstr != "" ? transformCookiesToAssocArray(prmstr) : {};
+    },
+
+    transformCookiesToAssocArray = function (prmstr) {
+        var params = {};
+        var prmarr = prmstr.split(";");
+        for (var i = 0; i < prmarr.length; i++) {
+            var tmparr = prmarr[i].split("=");
+            params[tmparr[0]] = decodeURI(tmparr[1]);
+        }
+        return params;
+    },
 
     newObj = function (array, values = false) {
         if (!values) {
